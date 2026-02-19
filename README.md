@@ -1,4 +1,4 @@
-# Hi there, I'm Rasul. 👋  
+# Hi there, I'm Rasul. 
 *Welcome to my whimsical world of tech, art, and dreams.* 
 
 ![Whimsical GIF](https://i.pinimg.com/originals/af/6e/21/af6e213cf897fe5e29f957ccce079f49.gif)
@@ -7,16 +7,16 @@ I'm a passionate software/web developer specializing in **AI, Data Science, and 
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
-- 🌱 Currently learning **Machine Learning and Data Science**  
-- 🛠 Working on **Speak-Up**, a sign language detection project that brings communication to life on video calls.  
-- 💬 Ask me about **Web Development**
-- ⚡ Fun fact: **I'm also a jazz musician and a writer.** I weave words into stories and poems that transport you to other worlds.  
+-  Currently learning **Machine Learning and Data Science**  
+-  Working on **Urja-Station**, a real-time charging station management system.  
+-  Ask me about **Web Development**
+-  Fun fact: **I'm also a jazz musician and a writer.** I weave words into stories and poems that transport you to other worlds.  
 
 ---
 
-## 🛠️ My Skills and Tools  
+##  My Skills and Tools  
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)  
@@ -26,14 +26,14 @@ I'm a passionate software/web developer specializing in **AI, Data Science, and 
 
 ---
 
-## 🌐 Connect with Me  
+##  Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasul-ghatane-071120257/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/RasulGhatane)  
 
 ---
 
-## 📈 My GitHub Stats  
+##  My GitHub Stats  
 
 ![RasulGhatane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RasulGhatane&show_icons=true&theme=calm)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RasulGhatane&layout=compact&theme=calm)
